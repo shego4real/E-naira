@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/enaira/static/css/main.3b898e3a.chunk.css",
+    "main.js": "/enaira/static/js/main.1b34bad6.chunk.js",
+    "main.js.map": "/enaira/static/js/main.1b34bad6.chunk.js.map",
+    "runtime-main.js": "/enaira/static/js/runtime-main.5df95a28.js",
+    "runtime-main.js.map": "/enaira/static/js/runtime-main.5df95a28.js.map",
+    "static/js/2.82e57231.chunk.js": "/enaira/static/js/2.82e57231.chunk.js",
+    "static/js/2.82e57231.chunk.js.map": "/enaira/static/js/2.82e57231.chunk.js.map",
+    "index.html": "/enaira/index.html",
+    "static/css/main.3b898e3a.chunk.css.map": "/enaira/static/css/main.3b898e3a.chunk.css.map",
+    "static/js/2.82e57231.chunk.js.LICENSE.txt": "/enaira/static/js/2.82e57231.chunk.js.LICENSE.txt",
+    "static/media/svg-1.75a474a5.svg": "/enaira/static/media/svg-1.75a474a5.svg",
+    "static/media/svg-2.c6c9075f.svg": "/enaira/static/media/svg-2.c6c9075f.svg",
+    "static/media/svg-3.cc81920e.svg": "/enaira/static/media/svg-3.cc81920e.svg",
+    "static/media/svg-4.svg": "/enaira/static/media/svg-4.b3991edd.svg",
+    "static/media/svg-6.svg": "/enaira/static/media/svg-6.4e61e9f3.svg",
+    "static/media/video.7d1ea6a9.mp4": "/enaira/static/media/video.7d1ea6a9.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5df95a28.js",
+    "static/js/2.82e57231.chunk.js",
+    "static/css/main.3b898e3a.chunk.css",
+    "static/js/main.1b34bad6.chunk.js"
+  ]
+}
